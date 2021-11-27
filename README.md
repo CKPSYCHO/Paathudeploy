@@ -12,4 +12,4 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fasil-vkn/Paathu)
 
 
-     Wa.me/+918136831431?text=Hloo
+  https://Wa.me/+918136831431?text=Hloo
